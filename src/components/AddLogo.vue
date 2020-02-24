@@ -184,6 +184,7 @@ input:focus {
   background: white;
   max-width: calc(100% - 5px);
   height: 6rem;
+  overflow: auto;
   filter: drop-shadow(5px 5px 0 var(--colorAccent));
 
   display: flex;
