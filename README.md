@@ -22,7 +22,7 @@
 
 ## Issues
 1. Sass was not working (seems to be an issue with Webpack, may be related to below)
-1. Seems to be an issue with UglifyJs; briefly looked into solutions such as [1](https://forum.vuejs.org/t/unexpected-token-operator-from-uglifyjs/10848) [2](https://stackoverflow.com/questions/43888474/unexpected-token-operator-from-uglifyjs) [3](https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/112#issuecomment-329069520) [4](https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/144)
+1. There seems to be an issue with UglifyJs; briefly looked into solutions such as [1](https://forum.vuejs.org/t/unexpected-token-operator-from-uglifyjs/10848) [2](https://stackoverflow.com/questions/43888474/unexpected-token-operator-from-uglifyjs) [3](https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/112#issuecomment-329069520) [4](https://github.com/webpack-contrib/uglifyjs-webpack-plugin/issues/144)
 
 ## Other thoughts
 - Wasn't sure if "autocomplete" referred to search input behavior (based on wireframes I'm guessing no) or specific Clearbit API
