@@ -1,6 +1,6 @@
 <template>
 <div class="TopNav">
-  LOGOLOGS &lt;3
+  LOGOLOG&thinsp;&lt;3
 
   <p>v.1.0</p>
 </div>
