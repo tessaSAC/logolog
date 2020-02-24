@@ -12,9 +12,13 @@
 1. Break out component files for nav, search, and selected icons
 1. Create filter functionalities (to save logos and filter out saved logos from results)
 1. Break up app into components
+1. Incorporate debouncing functionality
 1. Ensure state is reactive across all components
+1. Add CSS reset
 1. Style
+1. Add niceties e.g. functionality to clear search box, aria-role, etc.
 1. Deploy
+1. Style tweaks
 
 ## Issues
 1. Sass was not working (seems to be an issue with Webpack, may be related to below)
