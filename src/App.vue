@@ -81,6 +81,7 @@ body {
   border-right: 6px solid var(--colorAccent);
   background: var(--colorMain);
   width: 40vw;
+  min-width: 450px;
 }
 
 .MyCollection {
