@@ -21,7 +21,7 @@ export default {
   },
 
   computed: {
-    debouncedSearch() { return this.debounce(this.findLogos, 400) },
+    debouncedSearch() { return this.debounce(this.findLogos, 450) },
 
     // Don't show already saved logos
     searchResultsFiltered() {
@@ -53,8 +53,6 @@ export default {
 
         clearTimeout(timeout)
         timeout = setTimeout(later, wait)
-
-        if (callNow) func.apply(context, args)
       }
     },
 
